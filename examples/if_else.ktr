@@ -1,0 +1,9 @@
+a = 3
+
+if a < 6:
+    p: "a is smaller than 6!"
+;
+
+else:
+    p: a
+;

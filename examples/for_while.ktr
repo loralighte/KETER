@@ -1,0 +1,14 @@
+arr = ["hello", "world!", "programmed", "to", "work", "and", "not", "to", "feel"]
+
+// For i in arr
+fr i ~ arr:
+    p: i
+;
+
+// While loop counting.
+count = 0
+
+w count < 100:
+    count++
+    p: count
+;

@@ -1,0 +1,15 @@
+// This is a Keter function without arguments
+f myFunction():
+    p: "From Function"
+;
+
+// This is a Kerer function with arguments
+f addTwoNumbers(a b):
+    r: a + b
+;
+
+// Calling a function
+!myFunction()
+
+// Printing function output
+p: !addTwoNumbers(12 34)

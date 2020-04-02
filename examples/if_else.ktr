@@ -4,6 +4,10 @@ if a < 6:
     p: "a is smaller than 6!"
 ;
 
-else:
+ei a > 6:
+    p: "a is greater than 6!"
+;
+
+e:
     p: a
 ;

@@ -3,7 +3,7 @@ f myFunction():
     p: "From Function"
 ;
 
-// This is a Kerer function with arguments
+// This is a Keter function with arguments
 f addTwoNumbers(a b):
     r: a + b
 ;

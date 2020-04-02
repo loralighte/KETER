@@ -1,0 +1,11 @@
+// Get external files:
+req("./myFile.ktr")
+
+// Get external files WITH PREFIX:
+mOF = req("./myOtherFile.ktr)
+
+// A possible function from myFile.ktr
+!myFileFunction("argument")
+
+// A possible function from myOtherFile.ktr
+!mOF.myOtherFunction("argument")

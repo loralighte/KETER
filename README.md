@@ -3,8 +3,6 @@ The Keter Programming Language.
 
 Conceptualized by [Kai Lyons](https://kailikeslinux.io)
 
-Implemented by the Random-People group!
-
 ## Information
 Accepted File Extensions: `.ktr` / `.ktrh` / `.kh` / `.k` \
 Current Version: N/A 
